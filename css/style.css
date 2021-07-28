@@ -113,7 +113,7 @@ a:focus {
     position: absolute;
     z-index: 500;
     display: none;
-    background: url("../img/open.mp4") center / contain no-repeat;
+    background: url("../img/open.gif") center / contain no-repeat;
 }
 
 .easter-video.active {
